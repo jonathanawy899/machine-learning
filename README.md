@@ -1,3 +1,3 @@
-## machine learning
+## Machine learning
 
-## deep learning
+## Deep learning
